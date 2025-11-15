@@ -1,0 +1,10 @@
+name = "chat-app"
+main = "worker.js"                   # 指向你的 JS 文件
+compatibility_date = "2025-11-15"
+
+kv_namespaces = [
+  { binding = "CHAT_HISTORY", id = "33810fe7e394400a9a9a28d3a4419888" }
+]
+
+[vars]
+PASSWORD = "1839"
