@@ -1,4 +1,4 @@
-name = "chat-app"
+name = "moon-chat"
 main = "worker.js"                   # 指向你的 JS 文件
 compatibility_date = "2025-11-15"
 
